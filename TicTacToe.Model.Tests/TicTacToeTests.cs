@@ -1,7 +1,7 @@
 ﻿using System;
 using NUnit.Framework;
 
-namespace TicTacToe.Model.Tests
+namespace Examples.TicTacToe.Model.Tests
 {
     using System.Collections.Generic;
     using Examples.TicTacToe;

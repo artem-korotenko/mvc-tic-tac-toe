@@ -1,4 +1,4 @@
-namespace TicTacToe.Consoled
+namespace Examples.TicTacToe.Consoled
 {
     using System;
     using Examples.TicTacToe;

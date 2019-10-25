@@ -1,18 +1,13 @@
-﻿namespace TicTacToe.Consoled
+﻿namespace Examples.TicTacToe.Consoled
 {
     using System;
     using Examples.TicTacToe;
 
-    internal class ConsoleInput
+    public  class ConsoleInput
     {
-        public static void Main(string[] args)
+        public void StartProcessing(TicTacToeWithEvents game)
         {
             string command = null;
-
-            var  game = new TicTacToeWithEvents(new Player("A"), new Player("B") );
-            var output = new ConsoleOutput();
-            output.ListenTo(game);
-            
             Console.Out.WriteLine("Welcome to greatest Tic Tac Toe game! Type START to play ");
             while (true)
             {
