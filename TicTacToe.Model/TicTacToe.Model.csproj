@@ -42,6 +42,7 @@
     <Compile Include="Src\Cell.cs" />
     <Compile Include="Src\Player.cs" />
     <Compile Include="Src\TicTacToe.cs" />
+    <Compile Include="Src\TicTacToeWithEvents.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

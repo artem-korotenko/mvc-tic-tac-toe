@@ -5,6 +5,7 @@ namespace TicTacToe.Model.Tests
 {
     using System.Collections.Generic;
     using Examples.TicTacToe;
+    using NUnit.Framework.Internal.Execution;
 
     [TestFixture]
     public class TicTacToeTests
@@ -22,6 +23,7 @@ namespace TicTacToe.Model.Tests
             playerB = new Player("Player B");
             
             game = new TicTacToe(playerA, playerB);
+            game.StartGame();
         }
         
         [Test]
