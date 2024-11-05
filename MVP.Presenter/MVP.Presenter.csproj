@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net8.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\MVP.Model\MVP.Model.csproj" />
+      <ProjectReference Include="..\MVP.ViewModel\MVP.ViewModel.csproj" />
+      <ProjectReference Include="..\MVP.View\MVP.View.csproj" />
+    </ItemGroup>
+
+</Project>

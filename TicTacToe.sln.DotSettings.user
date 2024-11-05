@@ -1,0 +1,6 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=f7619b9b_002Deb1d_002D4a45_002D9cc2_002Dc8fafdce0a17/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="AfterGameIsCreated_FieldIsEmptyAnd3x3" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;NUnit3x::0CBDE045-EC68-465B-A825-AF2F86E7BB96::net8.0::Examples.TicTacToe.Model.Tests.TicTacToeTests.AfterGameIsCreated_FieldIsEmptyAnd3x3&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
