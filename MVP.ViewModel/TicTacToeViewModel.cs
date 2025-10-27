@@ -1,10 +1,10 @@
 public class TicTacToeViewModel
 {
-    public char[] Board { get; set; }
+    public char[] Board { get; init; }
 
-    public char CurrentPlayer { get; set; }
+    public char CurrentPlayer { get; init; }
 
-    public TicTacToeMessage Message { get; set; }
+    public TicTacToeMessage Message { get; init; }
 }
 
 public enum TicTacToeMessage
